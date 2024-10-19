@@ -5,7 +5,8 @@
 .breadcrumbs li {
   display: inline;
   colour: red;
-  font-family: 
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px; 
 }
 
 
